@@ -26,6 +26,7 @@ permission notices:
   comments.
 
   b2 is released under the GPL
+test
 
 and
 
